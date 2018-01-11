@@ -15,10 +15,9 @@ This is a react based application where we are creating some sample components a
 
 ## Steps
 1. Clone the Project
-2. Make sure that webpack is installed globally "npm install -g webpack" or "yarn global add webpack"
-3. run npm install
-4. run "npm run start" 
-6. open http://localhost:1234 and it will display a sample application whre the UI by default is being redirect to the Login Form. 
+2. run npm install
+3. run "npm run start" 
+4. open http://localhost:1234 and it will display a sample application whre the UI by default is being redirect to the Login Form. 
 
 
 
